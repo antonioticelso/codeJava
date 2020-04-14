@@ -8,5 +8,15 @@ public class Ternario {
         String resultadoFianl = media >= 7.0 ? "Aprovado" : resultadoParcial;
 
         System.out.println("O aluno está " + resultadoFianl);
+
+        double nota = 9.9;
+        boolean bomComportamento = false;
+        boolean passouPorMedia = nota >= 7.0;
+        boolean temDesconto = bomComportamento && passouPorMedia;
+
+        System.out.println("Tem desconto: " + temDesconto);
     }
+
 }
+
+
