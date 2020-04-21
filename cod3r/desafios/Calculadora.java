@@ -8,14 +8,14 @@ public class Calculadora {
         Scanner teclado = new Scanner(System.in);
 
         System.out.println("Digite um valor: ");
-        double n1 = teclado.nexDouble();
+        double n1 = teclado.nextDouble();
 
         System.out.println("Digite a operação: [+] [-] [*] [/] [%]");
 
-        String op = teclado.nexLine();
+        String op = teclado.nextLine();
 
         System.out.println("Digite um valor: ");
-        double n2 = teclado.nexDouble();
+        double n2 = teclado.nextDouble();
 
         double resultado = "+".equals(op) ? n1 + n2 : 0;
         resultado = "-".equals(op) ? n1 - n2 : resultado;
@@ -23,9 +23,9 @@ public class Calculadora {
         resultado = "/".equals(op) ? n1 / n2 : resultado;
         resultado = "%".equals(op) ? n1 % n2 : resultado;
 
-        System.out.println("%.2f %s %.2f = %.2f", n1, op, n2, resultado);
+        System.out.printf("%.2f %s %.2f = %.2f ", n1, op, n2, resultado);
         
-        teclado.closer();
+        teclado.close();
     
     }
 }
