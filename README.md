@@ -12,10 +12,12 @@ https://www.udemy.com/course/fundamentos-de-programacao-com-java/
 
 
 ## Java Full-Stack ##
+#### Jornada ####
+aula 10 / modulo 3 - Operadores Relacionais
+
 Curso completo Java Full-Stack da plataforma Java Desenvolvedor Full-Stack.
 
 https://www.jdevtreinamento.com.br/formacao-java-web-profissional/index.html?ref=O21533601O
 
-aula 4 / modulo 2
 
 
