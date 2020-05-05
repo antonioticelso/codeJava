@@ -23,7 +23,7 @@ public class Aula5Modulo8 {
 //        Incremento
         for (int n5 = 0; n5 <= 10; n5++) {
             if(n5 == 7) {
-                System.out.println("Parei no " + n5);
+                System.out.println("\nParei no " + n5);
                 break;
             }
             System.out.println("O valor é " + n5);
@@ -35,7 +35,7 @@ public class Aula5Modulo8 {
 //        Decremento
         for (int n6 = 10; n6 >= 0; n6--) {
             if(n6 == 6) {
-                System.out.println("Vamos continuar do " + n6);
+                System.out.println("\nVamos continuar do " + n6);
                 continue;
             }
             System.out.println("O valor é " + n6);

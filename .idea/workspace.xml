@@ -41,7 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588611098714</updated>
       <workItem from="1588611100669" duration="11778000" />
-      <workItem from="1588686780004" duration="3585000" />
+      <workItem from="1588686780004" duration="9804000" />
     </task>
     <servers />
   </component>
@@ -53,10 +53,10 @@
       <screen x="0" y="27" width="1280" height="997" />
     </state>
     <state x="330" y="164" width="800" height="719" key="#Plugins/1280.0.1920.1080/0.27.1280.997@0.27.1280.997" timestamp="1588687863556" />
-    <state x="182" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588612782918">
+    <state x="182" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588690868852">
       <screen x="0" y="27" width="1280" height="997" />
     </state>
-    <state x="182" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.0.1920.1080/0.27.1280.997@0.27.1280.997" timestamp="1588612782918" />
+    <state x="182" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.0.1920.1080/0.27.1280.997@0.27.1280.997" timestamp="1588690868852" />
     <state x="224" y="155" width="1022" height="737" key="SettingsEditor" timestamp="1588687576096">
       <screen x="0" y="27" width="1280" height="997" />
     </state>
@@ -69,9 +69,9 @@
       <screen x="0" y="27" width="1280" height="997" />
     </state>
     <state x="388" y="228" key="run.anything.popup/1280.0.1920.1080/0.27.1280.997@0.27.1280.997" timestamp="1588612804376" />
-    <state x="398" y="271" width="672" height="678" key="search.everywhere.popup" timestamp="1588688845615">
+    <state x="398" y="271" width="672" height="678" key="search.everywhere.popup" timestamp="1588698016764">
       <screen x="0" y="27" width="1280" height="997" />
     </state>
-    <state x="398" y="271" width="672" height="678" key="search.everywhere.popup/1280.0.1920.1080/0.27.1280.997@0.27.1280.997" timestamp="1588688845615" />
+    <state x="398" y="271" width="672" height="678" key="search.everywhere.popup/1280.0.1920.1080/0.27.1280.997@0.27.1280.997" timestamp="1588698016764" />
   </component>
 </project>

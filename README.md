@@ -1,5 +1,7 @@
 # codeJava #
 
+Cursos voltados para a programação com Linguagem Java.
+
 ## Cod3r ##
 Curso da plataforma Udemy.
 https://www.udemy.com/user/cod3r-3/
@@ -11,7 +13,7 @@ https://www.udemy.com/course/fundamentos-de-programacao-com-java/
 
 ## Java Full-Stack ##
 #### Jornada ####
-aula 4 / modulo 8 - IF
+aula 1 / modulo 9 - OrientaçãoObjeto OO
 
 
 Curso completo Java Full-Stack da plataforma Java Desenvolvedor Full-Stack.
