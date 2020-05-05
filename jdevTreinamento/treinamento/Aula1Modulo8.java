@@ -10,16 +10,27 @@ public class Aula1Modulo8 {
             System.out.println("Reprovado.");
 
         } else if(mediaAluno >= 40 && mediaAluno < 70) {
+
             System.out.println("Recuperação.");
 
         } else {
             System.out.println("Aprovado.");
+
 
         }
 
 //        Operador Ternário
         String saidaResultadoAluno;
         saidaResultadoAluno = mediaAluno2 >= 70 ? "Aprovado" : "Reprovado";
+
+//        switch (mediaAluno) {
+//            case 70:
+//                System.out.println("Aprovado.");
+//                break;
+//            default:
+//                System.out.println("Reprovado.");
+//                break;
+//        }
 
     }
 
