@@ -16,7 +16,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jdevtreinamento" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/jdevTreinamento/treinamento" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jdevTreinamento/treinamento/treinamento/aulaPOO" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -26,15 +27,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/jdevTreinamento/src/manager" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/jdevTreinamento/src" />
       <recent name="$PROJECT_DIR$/jdevTreinamento/java.executavel" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="treinamento.aulaPOO" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jdevTreinamento/treinamento/treinamento/aulaPOO" />
+      <recent name="$PROJECT_DIR$/jdevTreinamento/src/manager" />
     </key>
   </component>
   <component name="TaskManager">
@@ -47,6 +50,14 @@
       <workItem from="1588611100669" duration="11778000" />
       <workItem from="1588686780004" duration="16716000" />
       <workItem from="1588709994247" duration="4479000" />
+      <workItem from="1589818940234" duration="6822000" />
+      <workItem from="1589829481747" duration="1968000" />
+      <workItem from="1589916780365" duration="142000" />
+      <workItem from="1589969513031" duration="2818000" />
+      <workItem from="1590057880386" duration="595000" />
+      <workItem from="1590171980396" duration="304000" />
+      <workItem from="1590172314667" duration="67000" />
+      <workItem from="1590172487691" duration="43000" />
     </task>
     <servers />
   </component>
@@ -62,6 +73,10 @@
       <screen x="0" y="27" width="1280" height="997" />
     </state>
     <state x="182" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.0.1920.1080/0.27.1280.997@0.27.1280.997" timestamp="1588690868852" />
+    <state x="403" y="267" width="547" height="615" key="#com.intellij.ide.util.MemberChooser" timestamp="1589826212857">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state x="403" y="267" width="547" height="615" key="#com.intellij.ide.util.MemberChooser/1280.0.1920.1080/0.27.1280.997@0.27.1280.997" timestamp="1589826212857" />
     <state x="1826" y="268" width="424" height="491" key="FileChooserDialogImpl" timestamp="1588772279100">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
@@ -70,6 +85,10 @@
       <screen x="0" y="27" width="1280" height="997" />
     </state>
     <state x="224" y="155" width="1022" height="737" key="SettingsEditor/1280.0.1920.1080/0.27.1280.997@0.27.1280.997" timestamp="1588687576096" />
+    <state x="454" y="348" width="446" height="447" key="chooseDestDirectoryDialog" timestamp="1589818966107">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state x="454" y="348" width="446" height="447" key="chooseDestDirectoryDialog/1280.0.1920.1080/0.27.1280.997@0.27.1280.997" timestamp="1589818966107" />
     <state x="0" y="81" width="1270" height="855" key="new project wizard" timestamp="1588611373677">
       <screen x="0" y="27" width="1280" height="997" />
     </state>
