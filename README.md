@@ -13,7 +13,7 @@ https://www.udemy.com/course/fundamentos-de-programacao-com-java/
 
 ## Java Full-Stack ##
 #### Jornada ####
-modulo 12 / aula 3 - Set/Get - Interface OO
+aula 1 / modulo 9 - OrientaçãoObjeto OO
 
 
 Curso completo Java Full-Stack da plataforma Java Desenvolvedor Full-Stack.
@@ -29,8 +29,6 @@ Ctrl + s -> salva arquivo
 
 
 https://www.microsoft.com/pt-br/dev-community/Event/Register?eventId=Nerdgirlz%2331-EessetaldeCloudComputing%3F!_3LRLfBRp833V&ocid=aid2423408
-
-
 
 
 
