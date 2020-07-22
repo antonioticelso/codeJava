@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2785a82-2135-44cf-af23-1d051c8c7342" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bS2IzwSMnSkCXwsOgqB9EqFSSc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jdevTreinamento/java.executavel" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2785a82-2135-44cf-af23-1d051c8c7342" name="Default Changelist" comment="" />
+      <created>1588611098714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588611098714</updated>
+      <workItem from="1588611100669" duration="11778000" />
+      <workItem from="1588686780004" duration="9804000" />
+      <workItem from="1594746652433" duration="3000" />
+      <workItem from="1595248104892" duration="343000" />
+      <workItem from="1595248575388" duration="499000" />
+      <workItem from="1595385963434" duration="278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="330" y="164" width="800" height="719" key="#Plugins" timestamp="1588687863556">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state x="330" y="164" width="800" height="719" key="#Plugins/1280.0.1920.1080/0.27.1280.997@0.27.1280.997" timestamp="1588687863556" />
+    <state x="182" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588690868852">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state x="182" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.0.1920.1080/0.27.1280.997@0.27.1280.997" timestamp="1588690868852" />
+    <state x="224" y="155" width="1022" height="737" key="SettingsEditor" timestamp="1588687576096">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state x="224" y="155" width="1022" height="737" key="SettingsEditor/1280.0.1920.1080/0.27.1280.997@0.27.1280.997" timestamp="1588687576096" />
+    <state x="722" y="188" width="475" height="737" key="git4idea.branch.GitSmartOperationDialog" timestamp="1595248336192">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="722" y="188" width="475" height="737" key="git4idea.branch.GitSmartOperationDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1595248336192" />
+    <state x="0" y="81" width="1270" height="855" key="new project wizard" timestamp="1588611373677">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state x="0" y="81" width="1270" height="855" key="new project wizard/1280.0.1920.1080/0.27.1280.997@0.27.1280.997" timestamp="1588611373677" />
+    <state x="388" y="228" key="run.anything.popup" timestamp="1588612804376">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state x="388" y="228" key="run.anything.popup/1280.0.1920.1080/0.27.1280.997@0.27.1280.997" timestamp="1588612804376" />
+    <state x="398" y="271" width="672" height="678" key="search.everywhere.popup" timestamp="1588698016764">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state x="398" y="271" width="672" height="678" key="search.everywhere.popup/1280.0.1920.1080/0.27.1280.997@0.27.1280.997" timestamp="1588698016764" />
+  </component>
+</project>
