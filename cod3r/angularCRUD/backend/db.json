@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Caneta Azul",
+      "price": 5.89
+    },
+    {
+      "id": 3,
+      "name": "Caneta Vermelha",
+      "price": 5.89
+    },
+    {
+      "name": "iplone",
+      "price": 9780.57,
+      "id": 4
+    }
+  ]
+}
