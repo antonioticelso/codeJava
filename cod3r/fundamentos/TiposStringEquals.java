@@ -1,6 +1,8 @@
 package fundamentos;
 
-public class tipoStringEquals {
+import java.util.Scanner;
+
+public class TiposStringEquals {
     
     public static void main(String[] args) {
         System.out.println("2" == "2");
