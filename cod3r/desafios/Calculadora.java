@@ -23,7 +23,7 @@ public class Calculadora {
         resultado = "/".equals(op) ? n1 / n2 : resultado;
         resultado = "%".equals(op) ? n1 % n2 : resultado;
 
-        System.out.printf("%.2f %s %.2f = %.2f ", n1, op, n2, resultado);
+        System.out.println(" " + n1 + " " + op + " " + n2 + " = " + resultado);
         
         teclado.close();
     
