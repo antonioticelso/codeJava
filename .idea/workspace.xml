@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2785a82-2135-44cf-af23-1d051c8c7342" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cod3r/desafios/carros/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cod3r/desafios/carros/Civic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cod3r/desafios/carros/Ferrari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cod3r/desafios/carros/TestCarro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="tonhao" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -31,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cod3r/desafios/compras" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cod3r/desafios/carros" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,6 +51,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cod3r/desafios/carros" />
       <recent name="$PROJECT_DIR$/cod3r/desafios/compras" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -54,13 +62,15 @@
     </key>
   </component>
   <component name="RunManager" selected="npm.Angular CLI Server">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,6 +131,7 @@
       <workItem from="1609775846241" duration="2888000" />
       <workItem from="1609812361594" duration="8826000" />
       <workItem from="1610456041985" duration="5898000" />
+      <workItem from="1610577383522" duration="9859000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: inclusao de conteudo e desafios.">
       <created>1610511066120</created>
