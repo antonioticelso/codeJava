@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2785a82-2135-44cf-af23-1d051c8c7342" name="Default Changelist" comment="">
+    <list default="true" id="e2785a82-2135-44cf-af23-1d051c8c7342" name="Default Changelist" comment="refactor: inclusao de conteudo e desafios de Carros.">
+      <change afterPath="$PROJECT_DIR$/cod3r/desafios/dio/TestDio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cod3r/fundamentos/operadores/ArrayListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod3r/angularCRUD/frontend/src/app/components/product/product-create/product-create.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cod3r/angularCRUD/frontend/src/app/components/product/product-create/product-create.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="tonhao" />
@@ -34,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cod3r/desafios/carros" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cod3r/fundamentos/operadores" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -43,10 +53,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/cod3r/angularCRUD/frontend/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cod3r/fundamentos/operadores" />
       <recent name="$PROJECT_DIR$/cod3r/desafios/carros" />
       <recent name="$PROJECT_DIR$/cod3r/desafios/compras" />
     </key>
@@ -58,22 +69,10 @@
     </key>
   </component>
   <component name="RunManager" selected="npm.Angular CLI Server">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="E2E Tests (frontend)" type="JavaScriptTestRunnerProtractor">
       <config-file value="$PROJECT_DIR$/cod3r/angularCRUD/frontend/e2e/protractor.conf.js" />
       <node-interpreter value="project" />
+      <protractor-package value="" />
       <protractor-options value="" />
       <envs />
       <scope-kind value="ALL" />
@@ -128,6 +127,30 @@
       <workItem from="1609812361594" duration="8826000" />
       <workItem from="1610456041985" duration="5898000" />
       <workItem from="1610577383522" duration="11180000" />
+      <workItem from="1611861960761" duration="909000" />
+      <workItem from="1611924225867" duration="7876000" />
+      <workItem from="1611961243995" duration="1783000" />
+      <workItem from="1612898955980" duration="2117000" />
+      <workItem from="1612955312782" duration="1130000" />
+      <workItem from="1613394212597" duration="2774000" />
+      <workItem from="1614119063286" duration="734000" />
+      <workItem from="1614719050250" duration="36000" />
+      <workItem from="1614737666424" duration="45000" />
+      <workItem from="1614770558752" duration="35000" />
+      <workItem from="1614955321529" duration="10000" />
+      <workItem from="1615403484992" duration="13000" />
+      <workItem from="1617707977449" duration="1682000" />
+      <workItem from="1617805053045" duration="47000" />
+      <workItem from="1617805140926" duration="8000" />
+      <workItem from="1617805153950" duration="42000" />
+      <workItem from="1617817630769" duration="800000" />
+      <workItem from="1617820630219" duration="151000" />
+      <workItem from="1620414703210" duration="1541000" />
+      <workItem from="1621431505536" duration="2596000" />
+      <workItem from="1621866868579" duration="882000" />
+      <workItem from="1628651326885" duration="518000" />
+      <workItem from="1628716096419" duration="4728000" />
+      <workItem from="1629227458078" duration="290000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: inclusao de conteudo e desafios.">
       <created>1610511066120</created>
@@ -148,6 +171,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: CRUD com Angular 9." />

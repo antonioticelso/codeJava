@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {ProductService} from "../product.service";
-import {Router} from "@angular/router";
+import {Router} from '@angular/router';
 import {Product} from "../product.model";
 
 @Component({
@@ -28,7 +28,7 @@ export class ProductCreateComponent implements OnInit {
   }
 
   cancelProduct(): void {
-
+    this.productService.showMessage('Operaçao cancelada!')
     this.router.navigate(['products'])
 
   }
