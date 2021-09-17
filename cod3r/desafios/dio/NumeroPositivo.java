@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 
 // (Quantidade de numeros positivos)
-public class MinhaPrimeiraClasse {
+public class NumeroPositivo {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

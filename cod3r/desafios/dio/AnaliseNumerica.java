@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 // (Analise de Numeros)
-public class MinhaClasse {
+public class AnaliseNumerica {
   public static void main(String[] args) throws IOException {
     Scanner leitor = new Scanner(System.in);
     int par = 0;
