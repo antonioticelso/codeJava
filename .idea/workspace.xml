@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2785a82-2135-44cf-af23-1d051c8c7342" name="Default Changelist" comment="refactor: inclusao de conteudo e desafios de Carros.">
-      <change afterPath="$PROJECT_DIR$/cod3r/desafios/dio/TestDio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cod3r/fundamentos/operadores/ArrayListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/angularCRUD/frontend/src/app/components/product/product-create/product-create.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cod3r/angularCRUD/frontend/src/app/components/product/product-create/product-create.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/cod3r/desafios/dio/ArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/ComprarSupermercado.java" beforeDir="false" afterPath="$PROJECT_DIR$/cod3r/desafios/dio/ComprarSupermercado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/MovimentarFila.java" beforeDir="false" afterPath="$PROJECT_DIR$/cod3r/desafios/dio/MovimentarFila.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/OrdenarNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/cod3r/desafios/dio/OrdenarNumero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/TestDio.js" beforeDir="false" afterPath="$PROJECT_DIR$/cod3r/desafios/dio/TestDio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/UniformeGirafales.java" beforeDir="false" afterPath="$PROJECT_DIR$/cod3r/desafios/dio/UniformeGirafales.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,6 +154,11 @@
       <workItem from="1628651326885" duration="518000" />
       <workItem from="1628716096419" duration="4728000" />
       <workItem from="1629227458078" duration="290000" />
+      <workItem from="1632324470995" duration="67000" />
+      <workItem from="1632324556073" duration="3117000" />
+      <workItem from="1632427688871" duration="3443000" />
+      <workItem from="1633546058060" duration="1465000" />
+      <workItem from="1634560597830" duration="1131000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: inclusao de conteudo e desafios.">
       <created>1610511066120</created>
