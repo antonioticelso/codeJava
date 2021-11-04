@@ -104,12 +104,12 @@ public class ComprarSupermercado {
     // for ( int i = 0; i < qtd; i++) {
 
     // for (int k = 0; k < texto.length(); k++) {
-    // String letra = String.valueOf(texto.charAt(k));
-    // if (letra.equals(" ")) {
-    // list.add(palavra);
-    // palavra = "";
-    // }
-    // palavra = palavra.concat(letra);
+    //   String letra = String.valueOf(texto.charAt(k));
+    //   if (letra.equals(" ")) {
+    //     list.add(palavra);
+    //     palavra = "";
+    //   }
+    //   palavra = palavra.concat(letra);
 
     // }
 
