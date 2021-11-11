@@ -6,39 +6,28 @@ import java.util.TreeMap;
 import java.util.Map.Entry;
 
 public class ContagemRepetida {
-
+	static BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+	static PrintWriter out = new PrintWriter(System.out);
 
 	public static void main(String[] args) throws IOException {
 
 		// insira sua solução aqui
-		Scanner scr = new Scanner(System.in);
-		int valores = scr.nextInt();
-		int qtd = 1;
+		int qtd = 0;
+		String word;
+		String palavra1 = "";
+		String palavra2 = "";
+		// int valores = 0;
 
-		TreeMap<Integer, Integer> numeros = new TreeMap<>();
+		while ((word = in.readLine()) != null) {
+			System.out.println(word);
 
-		// declare as variaveis corretamente e continue a sua solução
-
-		for (int i = 0; i < valores; i++) {
-			int k;
-			var numero = scr.nextInt();
-
-			if (numeros.containsKey(numero)) {
-				k = numeros.get(numero) + qtd;
-				numeros.put(numero, k);
-
-			} else {
-				numeros.put(numero, qtd);
-
-			}
 		}
 
-		// numeros.entrySet().stream().sorted(Map.Entry.comparingByKey())
-		// .forEach(e -> System.out.println("" + " aparece " + "" + " vez(es)"));
+		// scr.close();
+		out.close();
 
-		for (Entry<Integer, Integer> key : numeros.entrySet()) {
-			System.out.println(key.getKey() + " aparece " + key.getValue() + " vez(es)");
-		}
+
+
 			 
 			 
 
