@@ -2,30 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2785a82-2135-44cf-af23-1d051c8c7342" name="Default Changelist" comment="refactor: Atualizaçao de estrutura de projeto - DIO.">
-      <change afterPath="$PROJECT_DIR$/dio/solucaoProblemas/MelhorAmigoPablo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dio/EstadoDemocratico.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dio/solucaoProblemas/VogalExtraterrestre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/AnaliseNumerica.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/AnaliseNumerica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/ArrayListDio.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/ArrayListDio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/ArrayListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/ConsumoAutomovel.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/ConsumoAutomovel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/ContagemCedula.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/ContagemCedula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/ExibirPar.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/ExibirPar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/ListItemComparision.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/ListItemComparision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/NumeroPositivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/NumeroPositivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/TestDio.js" beforeDir="false" afterPath="$PROJECT_DIR$/dio/TestDio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/buscaSubstituicao/Jokenpo.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/buscaSubstituicao/Jokenpo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/buscaSubstituicao/MaiorSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/buscaSubstituicao/MaiorSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/buscaSubstituicao/PalavraTamanho.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/buscaSubstituicao/PalavraTamanho.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/buscaSubstituicao/ValidaSenhaComposta.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/buscaSubstituicao/ValidaSenhaComposta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/buscaSubstituicao/Weblogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/buscaSubstituicao/Weblogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/ordenacaoFiltros/ComprarSupermercado.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/ordenacaoFiltros/ComprarSupermercado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/ordenacaoFiltros/GincanaAcampamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/ordenacaoFiltros/GincanaAcampamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/ordenacaoFiltros/MovimentarFila.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/ordenacaoFiltros/MovimentarFila.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/ordenacaoFiltros/OrdenarNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/ordenacaoFiltros/OrdenarNumero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/ordenacaoFiltros/UniformeGirafales.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/ordenacaoFiltros/UniformeGirafales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/solucaoProblemas/ContagemRepetida.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/solucaoProblemas/ContagemRepetida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/solucaoProblemas/VogalExtraterrestre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/solucaoProblemas/MelhorAmigoPablo.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/solucaoProblemas/MelhorAmigoPablo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio/ListItemComparision.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/ListItemComparision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdevTreinamento/treinamento/Aula1Modulo8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdevTreinamento/treinamento/Aula5Modulo8.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +177,7 @@
       <workItem from="1636035633090" duration="1082000" />
       <workItem from="1636641518678" duration="2808000" />
       <workItem from="1636659320449" duration="6443000" />
-      <workItem from="1637353985175" duration="310000" />
+      <workItem from="1637353985175" duration="1258000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: inclusao de conteudo e desafios.">
       <created>1610511066120</created>
@@ -238,7 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636663173684</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="refactor: Atualizaçao de estrutura de projeto - DIO.">
+      <created>1637354338019</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637354338019</updated>
+    </task>
+    <task id="LOCAL-00008" summary="refactor: Atualizaçao de estrutura de projeto - DIO.">
+      <created>1637354352546</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1637354352546</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

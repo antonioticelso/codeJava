@@ -1,5 +1,3 @@
-package desafios.dio;
-
 import java.text.Collator;
 import java.util.Collection;
 import java.util.TreeSet;
