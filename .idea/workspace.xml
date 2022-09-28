@@ -4,23 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2785a82-2135-44cf-af23-1d051c8c7342" name="Default Changelist" comment="refactor: Atualizaçao de estrutura de projeto - DIO.">
+    <list default="true" id="e2785a82-2135-44cf-af23-1d051c8c7342" name="Default Changelist" comment="quebecIntermediario -&gt; Novas classes de desafios - DIO.">
       <change afterPath="$PROJECT_DIR$/dio/quebecBasico/ArraysPares.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dio/quebecBasico/CalculoSimples.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dio/quebecBasico/PreenchimentoDeVetor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dio/quebecIntermediario/ReduzindoAteZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeJava/desafios/Bhaskara.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeJava/desafios/Calculadora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeJava/desafios/Celsius.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeJava/desafios/CuboQuadrado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeJava/desafios/Fahrenheit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeJava/desafios/IMC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeJava/desafios/Triangulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeJava/fundamentos/Teste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeJava/fundamentos/TiposStringEquals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeJava/fundamentos/operadores/Ternario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio/solucaoProblemas/MelhorAmigoPablo.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/solucaoProblemas/MelhorAmigoPablo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeJava/MelhorAmigoPablo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeJava/quebecBasico/PreenchimentoDeVetor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeJava/quebecBasico/PreenchimentoDeVetor.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +90,33 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReduzindoAteZero">
+  <component name="RunManager" selected="Application.PreenchimentoDeVetor">
+    <configuration name="ContaPar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quebecIntermediario.ContaPar" />
+      <module name="codeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quebecIntermediario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MelhorAmigoPablo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solucaoProblemas.MelhorAmigoPablo" />
+      <module name="codeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solucaoProblemas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PreenchimentoDeVetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="quebecBasico.PreenchimentoDeVetor" />
       <module name="codeJava" />
@@ -150,8 +167,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReduzindoAteZero" />
         <item itemvalue="Application.PreenchimentoDeVetor" />
+        <item itemvalue="Application.MelhorAmigoPablo" />
+        <item itemvalue="Application.ContaPar" />
+        <item itemvalue="Application.ReduzindoAteZero" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +242,7 @@
       <workItem from="1636641518678" duration="2808000" />
       <workItem from="1636659320449" duration="6443000" />
       <workItem from="1637353985175" duration="1258000" />
-      <workItem from="1663902195045" duration="5787000" />
+      <workItem from="1663902195045" duration="8666000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: inclusao de conteudo e desafios.">
       <created>1610511066120</created>
@@ -281,7 +300,35 @@
       <option name="project" value="LOCAL" />
       <updated>1637354352546</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="refactor: Atualizaçao de estrutura de projeto - DIO.">
+      <created>1664334013221</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664334013221</updated>
+    </task>
+    <task id="LOCAL-00010" summary="refactor: Atualizaçao de estrutura de projeto - DIO.">
+      <created>1664334036898</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664334036898</updated>
+    </task>
+    <task id="LOCAL-00011" summary="refactor: Atualizaçao de estrutura de projeto - DIO.">
+      <created>1664334048803</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664334048803</updated>
+    </task>
+    <task id="LOCAL-00012" summary="quebecIntermediario -&gt; Novas classes de desafios - DIO.">
+      <created>1664334841353</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664334841353</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,7 +353,8 @@
     <MESSAGE value="creat: criacao de desafios DIO - ordenacao e filtros - GincanaAcampamento." />
     <MESSAGE value="creat: criacao de desafios DIO - busca e substituicao - PalavraTamanho." />
     <MESSAGE value="refactor: Atualizaçao de estrutura de projeto - DIO." />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: Atualizaçao de estrutura de projeto - DIO." />
+    <MESSAGE value="quebecIntermediario -&gt; Novas classes de desafios - DIO." />
+    <option name="LAST_COMMIT_MESSAGE" value="quebecIntermediario -&gt; Novas classes de desafios - DIO." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
