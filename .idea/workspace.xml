@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e2785a82-2135-44cf-af23-1d051c8c7342" name="Default Changelist" comment="refactor: Atualizaçao de estrutura de projeto - DIO.">
-      <change afterPath="$PROJECT_DIR$/dio/EstadoDemocratico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dio/solucaoProblemas/VogalExtraterrestre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dio/quebecBasico/ArraysPares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dio/quebecBasico/CalculoSimples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dio/quebecBasico/PreenchimentoDeVetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dio/quebecIntermediario/ReduzindoAteZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod3r/desafios/dio/solucaoProblemas/MelhorAmigoPablo.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/solucaoProblemas/MelhorAmigoPablo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dio/ListItemComparision.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/ListItemComparision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdevTreinamento/treinamento/Aula1Modulo8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdevTreinamento/treinamento/Aula5Modulo8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeJava/desafios/Bhaskara.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeJava/desafios/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeJava/desafios/Celsius.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeJava/desafios/CuboQuadrado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeJava/desafios/Fahrenheit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeJava/desafios/IMC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeJava/desafios/Triangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeJava/fundamentos/Teste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeJava/fundamentos/TiposStringEquals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeJava/fundamentos/operadores/Ternario.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -41,6 +54,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1bS2IzwSMnSkCXwsOgqB9EqFSSc" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,25 +66,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cod3r/desafios/dio/solucaoProblemas" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/www/codeJava",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cod3r/desafios/dio/solucaoProblemas" />
@@ -86,7 +99,33 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.Angular CLI Server">
+  <component name="RunManager" selected="Application.ReduzindoAteZero">
+    <configuration name="PreenchimentoDeVetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quebecBasico.PreenchimentoDeVetor" />
+      <module name="codeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quebecBasico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReduzindoAteZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quebecIntermediario.ReduzindoAteZero" />
+      <module name="codeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quebecIntermediario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="E2E Tests (frontend)" type="JavaScriptTestRunnerProtractor">
       <config-file value="$PROJECT_DIR$/cod3r/angularCRUD/frontend/e2e/protractor.conf.js" />
       <node-interpreter value="project" />
@@ -109,6 +148,12 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReduzindoAteZero" />
+        <item itemvalue="Application.PreenchimentoDeVetor" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -178,6 +223,7 @@
       <workItem from="1636641518678" duration="2808000" />
       <workItem from="1636659320449" duration="6443000" />
       <workItem from="1637353985175" duration="1258000" />
+      <workItem from="1663902195045" duration="5787000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: inclusao de conteudo e desafios.">
       <created>1610511066120</created>
@@ -251,7 +297,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: CRUD com Angular 9." />
