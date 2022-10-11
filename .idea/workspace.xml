@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2785a82-2135-44cf-af23-1d051c8c7342" name="Default Changelist" comment="quebecIntermediario -&gt; Novas classes de desafios - DIO.">
-      <change afterPath="$PROJECT_DIR$/dio/quebecBasico/ArraysPares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dio/quebecBasico/CalculoSimples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dio/quebecBasico/PreenchimentoDeVetor.java" afterDir="false" />
+    <list default="true" id="e2785a82-2135-44cf-af23-1d051c8c7342" name="Default Changelist" comment="quebecBasic -&gt; Novas classes de desafios - DIO.">
+      <change afterPath="$PROJECT_DIR$/dio/gft/JokenpoAtaque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dio/gft/PulaNome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dio/solucaoProblemas/MelhorAmigoPablo.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/solucaoProblemas/MelhorAmigoPablo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeJava/MelhorAmigoPablo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio/quebecBasico/PreenchimentoDeVetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/dio/quebecBasico/PreenchimentoDeVetor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/codeJava/quebecBasico/PreenchimentoDeVetor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeJava/quebecBasico/PreenchimentoDeVetor.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,22 +55,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/www/codeJava",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/www/codeJava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cod3r/desafios/dio/solucaoProblemas" />
@@ -87,16 +85,30 @@
       <recent name="$PROJECT_DIR$/jdevTreinamento/java.executavel" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gft" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PreenchimentoDeVetor">
+  <component name="RunManager" selected="Application.JokenpoAtaque">
     <configuration name="ContaPar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="quebecIntermediario.ContaPar" />
       <module name="codeJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="quebecIntermediario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JokenpoAtaque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gft.JokenpoAtaque" />
+      <module name="codeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gft.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,6 +179,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JokenpoAtaque" />
         <item itemvalue="Application.PreenchimentoDeVetor" />
         <item itemvalue="Application.MelhorAmigoPablo" />
         <item itemvalue="Application.ContaPar" />
@@ -242,7 +255,9 @@
       <workItem from="1636641518678" duration="2808000" />
       <workItem from="1636659320449" duration="6443000" />
       <workItem from="1637353985175" duration="1258000" />
-      <workItem from="1663902195045" duration="8666000" />
+      <workItem from="1663902195045" duration="9382000" />
+      <workItem from="1664799459158" duration="189000" />
+      <workItem from="1665524824856" duration="5017000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: inclusao de conteudo e desafios.">
       <created>1610511066120</created>
@@ -328,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664334841353</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="quebecBasic -&gt; Novas classes de desafios - DIO.">
+      <created>1664367025222</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1664367025222</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,7 +376,8 @@
     <MESSAGE value="creat: criacao de desafios DIO - busca e substituicao - PalavraTamanho." />
     <MESSAGE value="refactor: Atualizaçao de estrutura de projeto - DIO." />
     <MESSAGE value="quebecIntermediario -&gt; Novas classes de desafios - DIO." />
-    <option name="LAST_COMMIT_MESSAGE" value="quebecIntermediario -&gt; Novas classes de desafios - DIO." />
+    <MESSAGE value="quebecBasic -&gt; Novas classes de desafios - DIO." />
+    <option name="LAST_COMMIT_MESSAGE" value="quebecBasic -&gt; Novas classes de desafios - DIO." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
