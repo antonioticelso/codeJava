@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2785a82-2135-44cf-af23-1d051c8c7342" name="Default Changelist" comment="GFT -&gt; Novas classes de desafios - GFT.">
-      <change afterPath="$PROJECT_DIR$/dio/gft/CalculoViagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dio/gft/Circulos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dio/gft/FolhaPagamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dio/gft/Multiplos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dio/gft/ParOuImpar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeJava.iml" afterDir="false" />
+    <list default="true" id="e2785a82-2135-44cf-af23-1d051c8c7342" name="Default Changelist" comment="cloudFullStack -&gt; Novas classes de desafios.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeJava/quebecBasico/PreenchimentoDeVetor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeJava/quebecBasico/PreenchimentoDeVetor.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,22 +51,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/www/codeJava",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/www/codeJava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cod3r/desafios/dio/solucaoProblemas" />
@@ -257,7 +250,9 @@
       <workItem from="1665524824856" duration="9440000" />
       <workItem from="1666019782773" duration="822000" />
       <workItem from="1666236458169" duration="1383000" />
-      <workItem from="1666805879494" duration="12083000" />
+      <workItem from="1666805879494" duration="13816000" />
+      <workItem from="1666968974854" duration="612000" />
+      <workItem from="1667218394239" duration="11659000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: inclusao de conteudo e desafios.">
       <created>1610511066120</created>
@@ -378,7 +373,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665535782510</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="GFT -&gt; Novas classes de desafios - GFT.">
+      <created>1666839336205</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1666839336205</updated>
+    </task>
+    <task id="LOCAL-00019" summary="cloudFullStack -&gt; Novas classes de desafios.">
+      <created>1667345109884</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1667345109887</updated>
+    </task>
+    <task id="LOCAL-00020" summary="cloudFullStack -&gt; Novas classes de desafios.">
+      <created>1667361853197</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1667361853197</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -406,7 +422,8 @@
     <MESSAGE value="quebecIntermediario -&gt; Novas classes de desafios - DIO." />
     <MESSAGE value="quebecBasic -&gt; Novas classes de desafios - DIO." />
     <MESSAGE value="GFT -&gt; Novas classes de desafios - GFT." />
-    <option name="LAST_COMMIT_MESSAGE" value="GFT -&gt; Novas classes de desafios - GFT." />
+    <MESSAGE value="cloudFullStack -&gt; Novas classes de desafios." />
+    <option name="LAST_COMMIT_MESSAGE" value="cloudFullStack -&gt; Novas classes de desafios." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

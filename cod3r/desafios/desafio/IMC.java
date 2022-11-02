@@ -1,4 +1,4 @@
-package desafios;
+package desafio;
 
 public class IMC {
 
