@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2785a82-2135-44cf-af23-1d051c8c7342" name="Default Changelist" comment="cloudFullStack -&gt; Novas classes de desafios.">
+      <change afterPath="$PROJECT_DIR$/dio/gft/programmerJava/MultiplicacaoSimples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dio/gft/programmerJava/VisitaFeira.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -253,6 +255,7 @@
       <workItem from="1666805879494" duration="13816000" />
       <workItem from="1666968974854" duration="612000" />
       <workItem from="1667218394239" duration="11659000" />
+      <workItem from="1667368581198" duration="1199000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: inclusao de conteudo e desafios.">
       <created>1610511066120</created>
